@@ -1,0 +1,14 @@
+.DS_Store
+*/.DS_Store
+
+.vscode
+.venv
+*/.venv/
+*/.venv/*
+
+__pycache__
+*/__pycache__
+*/__pycache__/*
+
+mind_map.jpg
+mind_map1.jpg
